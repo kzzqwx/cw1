@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>img/free-icon-fast-forward-151854.png</file>
+        <file>img/free-icon-list-151867.png</file>
+        <file>img/free-icon-minus-151856.png</file>
+        <file>img/free-icon-musical-note-151857.png</file>
+        <file>img/free-icon-pause-151859.png</file>
+        <file>img/free-icon-play-button-151860.png</file>
+        <file>img/free-icon-plus-151861.png</file>
+        <file>img/free-icon-replay-151862.png</file>
+        <file>img/free-icon-rewind-151847.png</file>
+        <file>img/shuffle.png</file>
+    </qresource>
+</RCC>
